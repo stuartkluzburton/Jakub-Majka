@@ -23,8 +23,7 @@
 ## Wykonaj zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie JPEG 
 ### i nadaj im nazwy kw1, kw2, kw3, kw4, kw5. Zrzuty powinny obejmować cały ekran monitora 
 ### z widocznym paskiem zadań.
-## ‒ Zapytanie 1: wybierające jedynie pola marka i rocznik z tabeli samochody dla samochodów koloru 
-## niebieskiego
+## ‒ Zapytanie 1: wybierające jedynie pola marka i rocznik z tabeli samochody dla samochodów koloru niebieskiego
 ## ‒ Zapytanie 2: zliczające ile jest samochodów marki Toyota lub Opel, których stan jest bardzo dobry
 ## ‒ Zapytanie 3: aktualizujące wartość pola stan na „dobry” w tabeli samochody dla samochodów
 ## starszych niż 2004 rok
