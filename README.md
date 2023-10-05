@@ -1,6 +1,6 @@
 # stacja-paliw
 ## UWAGA: katalog z rezultatami pracy oraz płytę należy opisać numerem, którym został podpisany arkusz, 
-### czyli numerem PESEL lub w przypadku jego braku numerem paszportu.
+### * czyli numerem PESEL lub w przypadku jego braku numerem paszportu.
 ### Wykonaj aplikację internetową portalu stacji paliw, wykorzystując pakiet XAMPP oraz edytor zaznaczający składnię.
 ## Aby wykonać zadanie, należy zalogować się na konto Egzamin bez hasła. Na pulpicie znajduje się archiwum 
 ### ZIP o nazwie pliki2.zip zabezpieczone hasłem: PaLiWo5&
