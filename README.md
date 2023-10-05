@@ -1,5 +1,6 @@
 # stacja-paliw
-## UWAGA: katalog z rezultatami pracy oraz płytę należy opisać numerem, którym został podpisany arkusz, 
+```diff
+- ## UWAGA: katalog z rezultatami pracy oraz płytę należy opisać numerem, którym został podpisany arkusz, 
 ### czyli numerem PESEL lub w przypadku jego braku numerem paszportu.
 ### Wykonaj aplikację internetową portalu stacji paliw, wykorzystując pakiet XAMPP oraz edytor zaznaczający składnię.
 ## Aby wykonać zadanie, należy zalogować się na konto Egzamin bez hasła. Na pulpicie znajduje się archiwum 
@@ -24,3 +25,4 @@
 ## ‒ Zapytanie 3: aktualizujące wartość pola stan na „dobry” w tabeli samochody dla samochodów starszych niż 2004 rok
 ## ‒ Zapytanie 4: tworzące użytkownika jan na localhost z hasłem janKowalski1@
 ## ‒ Zapytanie 5: nadające użytkownikowi jan prawo jedynie do wybierania, wstawiania i aktualizacji danych w tabeli samochody
+```
