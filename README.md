@@ -19,7 +19,7 @@
 ### ‒ Wykonaj zapytania SQL działające na bazie samochody. Zapytania zapisz w pliku kwerendy.txt.
 ## Wykonaj zrzuty ekranu przedstawiające wyniki działania kwerend. Zrzuty zapisz w formacie JPEG 
 ### i nadaj im nazwy kw1, kw2, kw3, kw4, kw5. Zrzuty powinny obejmować cały ekran monitora z widocznym paskiem zadań.
-1. ## ‒ Zapytanie 1: wybierające jedynie pola marka i rocznik z tabeli samochody dla samochodów koloru niebieskiego
+## 1. ‒ Zapytanie 1: wybierające jedynie pola marka i rocznik z tabeli samochody dla samochodów koloru niebieskiego
 2. ## ‒ Zapytanie 2: zliczające ile jest samochodów marki Toyota lub Opel, których stan jest bardzo dobry
 3. ## ‒ Zapytanie 3: aktualizujące wartość pola stan na „dobry” w tabeli samochody dla samochodów starszych niż 2004 rok
 4. ## ‒ Zapytanie 4: tworzące użytkownika jan na localhost z hasłem janKowalski1@
